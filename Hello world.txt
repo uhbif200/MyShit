@@ -1,9 +1,3 @@
-print "hello world";
-print "chiki briki";
-<<<<<<< HEAD
 print 'bye bitches';
 print 'slojno cheto';
 print 'new hello ';
-=======
-print 'bye bitches';
->>>>>>> master
