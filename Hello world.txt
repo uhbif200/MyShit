@@ -1,4 +1,5 @@
-print "hello world"
-print "chiki briki"
-print 'bye bitches'
-print 'new hello '
+print "hello world";
+print "chiki briki";
+print 'bye bitches';
+print 'slojno cheto';
+print 'new hello ';
